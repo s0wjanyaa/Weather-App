@@ -3,6 +3,10 @@
 ## Overview  
 The **Weather App** is a React-based application that allows users to search for real-time weather data of any city. It fetches live weather information such as temperature, humidity, and conditions using an external weather API. The app is styled with **Material-UI** for a modern user experience.  
 
+## Live Demo 🌍
+
+[Click here to view the live app](https://weather-app-dgx8.onrender.com)
+
 ## Features  
 - **Real-time Weather Data** – Fetches accurate weather updates  
 - **Material-UI Integration** – Clean and responsive UI components  
