@@ -4,7 +4,7 @@
 The **Weather App** is a React-based application that allows users to search for real-time weather data of any city. It fetches live weather information such as temperature, humidity, and conditions using an external weather API. The app is styled with **Material-UI** for a modern user experience.  
 
 ## Video Demo 🎥
-[Click here to watch the demo]https://github.com/user-attachments/assets/7074c7be-2919-4934-ab67-55c9c9602436
+[watch the demo]https://github.com/user-attachments/assets/7074c7be-2919-4934-ab67-55c9c9602436
 
 ## Features  
 - **Real-time Weather Data** – Fetches accurate weather updates  
