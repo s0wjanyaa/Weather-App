@@ -26,11 +26,11 @@ To secure your API key, follow these steps:
 1. Create a **.env** file in the project root.  
 2. Add your API key as an environment variable:  
    ```sh
-   VITE_WEATHER_API_KEY=your_api_key_here
+   WEATHER_API_KEY=your_api_key_here
    ```
 3. Access it in your code using:  
    ```js
-   const apiKey = import.meta.env.VITE_WEATHER_API_KEY;
+   const apiKey = import.meta.env.WEATHER_API_KEY;
    ```
 
 ## Installation & Setup  
