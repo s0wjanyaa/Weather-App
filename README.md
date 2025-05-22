@@ -6,18 +6,6 @@ The **Weather App** is a React-based application that allows users to search for
 ## Video Demo 🎥
 [watch the demo]https://github.com/user-attachments/assets/7074c7be-2919-4934-ab67-55c9c9602436
 
-## Features  
-- **Real-time Weather Data** – Fetches accurate weather updates  
-- **Material-UI Integration** – Clean and responsive UI components  
-- **City-Based Search** – Enter a city name to get instant weather details  
-- **API Key Security** – Uses environment variables to secure sensitive information  
-
-## Tech Stack  
-- **React.js** – JavaScript library for building UI components  
-- **Material-UI** – Provides modern and accessible UI components  
-- **Vite** – Fast and optimized build tool  
-- **Weather API** – Fetches live weather data  
-
 ## API Usage  
 This app uses the **OpenWeather API** (or any other weather API) to fetch weather data.  
 
@@ -49,8 +37,4 @@ npm install
 ### 3. Start the Development Server  
 ```sh
 npm run dev
-``` 
-
-## Contact  
-For any questions or feedback, feel free to reach out:  
-- **GitHub**: [s0wjanyaa](https://github.com/s0wjanyaa)  
+```  
